@@ -10,3 +10,5 @@ AFTER-
 ![kde-mwm](https://user-images.githubusercontent.com/81046576/129900594-e19a73f7-e649-432b-87b0-d02d4b36d02f.png)
 
 You can get the original from the KDE store. I kept it under the GPLv3 it originally was. Just drop this where aurorae can find it and select it in the settings menu. If colors look funky, I suggest try logging out and log back in. I learned that modifying this because the theme kept using the old colors for maximized windows while making this.
+
+One thing you should know also is that I decided to excluse the close button because I wanted a more authentic MWM like experience.
